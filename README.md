@@ -2,7 +2,7 @@
 
 github
 geany
-spider
+spyder
 wordpress
 domains
 hosting
