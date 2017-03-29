@@ -1,15 +1,13 @@
-20170303
+OSDE
 
-github
+[osde @ altervista](https://osde8info.altervista.com)
 
-geany
+[osde](https://osde8info.wordpress.com)
 
-spyder
+[fsse](https://fsse8info.wordpress.com)
 
-wordpress
+[vizz](https://vizz8info.wordpress.com)
 
-domains
+[voippix](https://voippix.wordpress.com)
 
-hosting
 
-edx.org
