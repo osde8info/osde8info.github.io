@@ -1,13 +1,13 @@
 OSDE
 
-[osde @ altervista](https://osde8info.altervista.com)
+[osde @ altervista](https://osde8info.altervista.org)
 
-[osde](https://osde8info.wordpress.com)
+[osde @ wordpress](https://osde8info.wordpress.com)
 
-[fsse](https://fsse8info.wordpress.com)
+[fsse @ wordpress](https://fsse8info.wordpress.com)
 
-[vizz](https://vizz8info.wordpress.com)
+[vizz @ wordpress](https://vizz8info.wordpress.com)
 
-[voippix](https://voippix.wordpress.com)
+[voippix @ wordpress](https://voippix.wordpress.com)
 
 
