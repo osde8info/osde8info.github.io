@@ -1,6 +1,4 @@
-OSDE
-
-[osde @ altervista](https://osde8info.altervista.org)
+OSDE8INFO
 
 [osde @ wordpress](https://osde8info.wordpress.com)
 
@@ -9,5 +7,4 @@ OSDE
 [vizz @ wordpress](https://vizz8info.wordpress.com)
 
 [voippix @ wordpress](https://voippix.wordpress.com)
-
 
