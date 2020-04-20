@@ -6,5 +6,5 @@ OSDE8INFO
 
 [vizz @ wordpress](https://vizz8info.wordpress.com)
 
-[voippix @ wordpress](https://voippix.wordpress.com)
+[voip @ wordpress](https://voippix.wordpress.com)
 
