@@ -1,4 +1,4 @@
-OSDE8INFO
+OSDE.INFO
 
 [osde @ wordpress](https://osde8info.wordpress.com)
 
