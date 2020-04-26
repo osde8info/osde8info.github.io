@@ -1,6 +1,8 @@
-OSDE blogs
+OSDE blog
 
 - [osde.wordpress.com](https://osde8info.wordpress.com)
+
+Other blogs
 
 - [aiml.wordpress.com](https://aidlml.wordpress.com)
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
