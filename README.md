@@ -1,9 +1,10 @@
-OSDE.INFO
+OSDE blogs
 
-[osde @ wordpress](https://osde8info.wordpress.com)
+[osde.wordpress.com](https://osde8info.wordpress.com)
 
-[fsse @ wordpress](https://fsse8info.wordpress.com)
-
-[vizz @ wordpress](https://vizz8info.wordpress.com)
-
-[voip @ wordpress](https://voippix.wordpress.com)
+[aiml.wordpress.com](https://aidlml.wordpress.com)
+[edutain.wordpress.com](https://edutain8.wordpress.com)
+[embed.wordpress.com](https://embed8.wordpress.com)
+[vietnam.wordpress.com](https://vietnam.wordpress.com)
+[vizz.wordpress.com](https://vizz8info.wordpress.com)
+[voip.wordpress.com](https://voippix.wordpress.com)
