@@ -16,9 +16,10 @@ SMNs
 
 - [deviantart](https://osde.info)
 - [instagram](https://osde.info)
-- [pinterest](https://osde.info)
+- [pinterest](https://www.pinterest.co.uk/osde8info/_saved/)
 
 BMNs
 
 - [linkedin](https://osde.info)
 - [twitter](https://osde.info)
+- [vimeo](https://vimeo.com/osde8info)
