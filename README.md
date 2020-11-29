@@ -11,3 +11,14 @@ Other blogs
 - [vietnam.wordpress.com](https://vietnam.wordpress.com)
 - [vizz.wordpress.com](https://vizz8info.wordpress.com)
 - [voip.wordpress.com](https://voippix.wordpress.com)
+
+SMNs
+
+- [deviantart](https://osde.info)
+- [instagram](https://osde.info)
+- [pinterest](https://osde.info)
+
+BMNs
+
+- [linkedin](https://osde.info)
+- [twitter](https://osde.info)
