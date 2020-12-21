@@ -2,24 +2,27 @@ OSDE blog
 
 - **[osde.wordpress.com](https://osde8info.wordpress.com)**
 
-Other blogs
+Tech blogs
 
 - [aiml.wordpress.com](https://aidlml.wordpress.com)
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
 - [embed.wordpress.com](https://embed8.wordpress.com)
 - [fsse.wordpress.com](https://fsse8info.wordpress.com)
-- [vietnam.wordpress.com](https://vietnam.wordpress.com)
 - [vizz.wordpress.com](https://vizz8info.wordpress.com)
 - [voip.wordpress.com](https://voippix.wordpress.com)
 
+Other Blogs
+
+- [vietnam.wordpress.com](https://vietnam.wordpress.com)
+
 SMNs
 
-- [deviantart](https://osde.info)
-- [instagram](https://osde.info)
+- [deviantart](https://www.deviantart.com/osde8info)
+- [instagram](https://www.instagram.com/)
 - [pinterest](https://www.pinterest.co.uk/osde8info/_saved/)
 
 BMNs
 
-- [linkedin](https://osde.info)
-- [twitter](https://osde.info)
+- [linkedin](https://www.linkedin.com/)
+- [twitter](https://twitter.com/osde8info)
 - [vimeo](https://vimeo.com/osde8info)
