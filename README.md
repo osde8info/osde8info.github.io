@@ -18,7 +18,7 @@ Other Blogs
 SMNs
 
 - [deviantart](https://www.deviantart.com/osde8info)
-- [instagram](https://www.instagram.com/)
+- [instagram](https://www.instagram.com/osde8info/)
 - [pinterest](https://www.pinterest.co.uk/osde8info/_saved/)
 
 BMNs
