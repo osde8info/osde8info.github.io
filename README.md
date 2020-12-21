@@ -13,7 +13,7 @@ Tech blogs
 
 Other Blogs
 
-- [vietnam.wordpress.com](https://vietnam.wordpress.com)
+- [vietnam.wordpress.com](https://lovevietnamese.wordpress.com/)
 
 SMNs
 
