@@ -13,6 +13,7 @@ Other Blogs
 - [vietnam.wordpress.com](https://lovevietnamese.wordpress.com/)
 
 Communities
+- [goog issues hotlist](https://issuetracker.google.com/hotlists/1743334)
 - [launchpad](https://launchpad.net/~osde8info)
  
 SMNs
