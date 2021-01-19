@@ -18,14 +18,17 @@ Communities
 SMNs
 - [500px](https://500px.com/p/osde8info?view=photos)
 - [deviantart](https://www.deviantart.com/osde8info)
-- [discord]
 - [instagram](https://www.instagram.com/osde8info/)
 - [pinterest](https://www.pinterest.co.uk/osde8info/_saved/)
-- [twitch]
-- [youtube]
+- [twitter](https://twitter.com/osde8info)
+- [youtube](https://www.youtube.com/channel/UC9qzSmzQ720lUlSWM8Q37Mw)
+
+DMNs
+- [codepen](https://codepen.io/osde8info/)
+- [discord](https://discord.com/channels/@me)
+- [twitch](https://www.twitch.tv/)
 
 BMNs
 - [linkedin](https://www.linkedin.com/)
-- [twitter](https://twitter.com/osde8info)
 - [unsplash](https://unsplash.com/@osde8info)
 - [vimeo](https://vimeo.com/osde8info)
