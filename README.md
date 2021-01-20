@@ -27,6 +27,7 @@ SMNs
 DMNs
 - [codepen](https://codepen.io/osde8info/)
 - [discord](https://discord.com/channels/@me)
+- [hackster](https://www.hackster.io/osde8info)
 - [twitch](https://www.twitch.tv/)
 
 BMNs
