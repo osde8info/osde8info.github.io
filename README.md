@@ -35,5 +35,5 @@ BMNs
 - [unsplash](https://unsplash.com/@osde8info)
 - [vimeo](https://vimeo.com/osde8info)
 
-COFFEE
+COFFEEs
 - [kofi](https://ko-fi.com/osde8info)
