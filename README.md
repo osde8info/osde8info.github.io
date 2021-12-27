@@ -30,10 +30,10 @@ DMNs
 SMNs
 - [500px](https://500px.com/p/osde8info?view=photos)
 - [deviantart](https://www.deviantart.com/osde8info)
-- [flickr](https://www.flickr.com/photos/osde-info/) [clyde@flickr](https://www.flickr.com/photos/fsse-info/)
-- [instagram](https://www.instagram.com/osde8info/) [clyde@instagram](https://www.instagram.com/fsse8info/) [cyrek@instagram](https://www.instagram.com/vizz8info/)
+- [flickr](https://www.flickr.com/photos/osde-info/) (also [clyde@flickr](https://www.flickr.com/photos/fsse-info/))
+- [instagram](https://www.instagram.com/osde8info/) (also [clyde@instagram](https://www.instagram.com/fsse8info/) [cyrek@instagram](https://www.instagram.com/vizz8info/))
 - [pinterest](https://www.pinterest.co.uk/osde8info/_saved/)
-- [twitter](https://twitter.com/osde8info) [clyde@twitter](https://twitter.com/fsse8info) [cyrek@twitter](https://twitter.com/vizz8info)
+- [twitter](https://twitter.com/osde8info) (also [clyde@twitter](https://twitter.com/fsse8info) [cyrek@twitter](https://twitter.com/vizz8info))
 - [youtube](https://www.youtube.com/channel/UC9qzSmzQ720lUlSWM8Q37Mw)
 
 COFFEEs
