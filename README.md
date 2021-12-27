@@ -10,30 +10,31 @@ Tech blogs
 - [voip.wordpress.com](https://voippix.wordpress.com)
 
 Other Blogs
-- [vietnam.wordpress.com](https://lovevietnamese.wordpress.com/)
+- [lovevietnamese.wordpress.com](https://lovevietnamese.wordpress.com/)
+
+BMNs
+- [linkedin](https://www.linkedin.com/)
+- [unsplash](https://unsplash.com/@osde8info)
+- [vimeo](https://vimeo.com/osde8info)
 
 Communities
 - [goog issues hotlist](https://issuetracker.google.com/hotlists/1743334)
 - [launchpad](https://launchpad.net/~osde8info)
  
-SMNs
-- [500px](https://500px.com/p/osde8info?view=photos)
-- [deviantart](https://www.deviantart.com/osde8info)
-- [instagram](https://www.instagram.com/osde8info/)
-- [pinterest](https://www.pinterest.co.uk/osde8info/_saved/)
-- [twitter](https://twitter.com/osde8info)
-- [youtube](https://www.youtube.com/channel/UC9qzSmzQ720lUlSWM8Q37Mw)
-
 DMNs
 - [codepen](https://codepen.io/osde8info/)
 - [discord](https://discord.com/channels/@me)
 - [hackster](https://www.hackster.io/osde8info)
 - [twitch](https://www.twitch.tv/)
 
-BMNs
-- [linkedin](https://www.linkedin.com/)
-- [unsplash](https://unsplash.com/@osde8info)
-- [vimeo](https://vimeo.com/osde8info)
+SMNs
+- [500px](https://500px.com/p/osde8info?view=photos)
+- [deviantart](https://www.deviantart.com/osde8info)
+- [flickr](https://www.flickr.com/photos/osde-info/) [clyde@flickr](https://www.flickr.com/photos/fsse-info/)
+- [instagram](https://www.instagram.com/osde8info/) [clyde@instagram](https://www.instagram.com/fsse8info/) [cyrek@instagram](https://www.instagram.com/vizz8info/)
+- [pinterest](https://www.pinterest.co.uk/osde8info/_saved/)
+- [twitter](https://twitter.com/osde8info) [clyde@twitter](https://twitter.com/fsse8info) [cyrek@twitter](https://twitter.com/vizz8info)
+- [youtube](https://www.youtube.com/channel/UC9qzSmzQ720lUlSWM8Q37Mw)
 
 COFFEEs
 - [buymeacoffee](https://www.buymeacoffee.com/VbmwyiF)
