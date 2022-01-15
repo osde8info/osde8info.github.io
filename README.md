@@ -24,6 +24,7 @@ Communities
 DMNs
 - [codepen](https://codepen.io/osde8info/)
 - [discord](https://discord.com/channels/@me)
+- [glitch](https://glitch.com/@osde8info)
 - [hackster](https://www.hackster.io/osde8info)
 - [twitch](https://www.twitch.tv/)
 
