@@ -1,4 +1,4 @@
-OSDE.INFO & OSDE8INFO SMN Brand Grid
+### OSDE.INFO & OSDE8INFO SMN Brand Grid
 
 | SMN   | OSDE    |  FSSE    | VIZZ   |  VOIP  |
 | :---  |  :---:  |  :---:   | :---:  |  :---: |
@@ -9,35 +9,34 @@ OSDE.INFO & OSDE8INFO SMN Brand Grid
 | twittr | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | [voip](https://twitter.com/voip8info) |
 | youtube | [osde](https://www.youtube.com/channel/osde8info) | [fsse](https://www.youtube.com/channel/fsse8info) | [vizz](https://www.youtube.com/channel/vizz8info) | [voip](https://www.youtube.com/channel/voip8info) |
 
-
-Other Tech Blogs
+### Other Tech Blogs
 - [aiml.wordpress.com](https://aidlml.wordpress.com)
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
 - [embed.wordpress.com](https://embed8.wordpress.com)
 
-Other Nontech Blogs
+### Other Nontech Blogs
 - [viet.wordpress.com](https://lovevietnamese.wordpress.com/)
 
-Other SMNs
+### Other SMNs
 - [500px](https://500px.com/p/osde8info?view=photos)
 - [deviantart](https://www.deviantart.com/osde8info)
 
-BMNs
+### BMNs
 - [linkedin](https://www.linkedin.com/)
 - [unsplash](https://unsplash.com/@osde8info)
 - [vimeo](https://vimeo.com/osde8info)
 
-DMNs
+### DMNs
 - [codepen](https://codepen.io/osde8info/)
 - [discord](https://discord.com/channels/@me)
 - [glitch](https://glitch.com/@osde8info)
 - [hackster](https://www.hackster.io/osde8info)
 - [twitch](https://www.twitch.tv/)
 
-Dev Communitys
+### Dev Communitys
 - [googissues](https://issuetracker.google.com/hotlists/1743334)
 - [launchpad](https://launchpad.net/~osde8info)
  
-And Finally Coffees
+### And Finally Coffees
 - [buymeacoffee](https://www.buymeacoffee.com/VbmwyiF)
 - [kofi](https://ko-fi.com/osde8info)
