@@ -10,23 +10,7 @@ Tech blogs
 - [voip.wordpress.com](https://voippix.wordpress.com)
 
 Other Blogs
-- [lovevietnamese.wordpress.com](https://lovevietnamese.wordpress.com/)
-
-BMNs
-- [linkedin](https://www.linkedin.com/)
-- [unsplash](https://unsplash.com/@osde8info)
-- [vimeo](https://vimeo.com/osde8info)
-
-Communities
-- [goog issues hotlist](https://issuetracker.google.com/hotlists/1743334)
-- [launchpad](https://launchpad.net/~osde8info)
- 
-DMNs
-- [codepen](https://codepen.io/osde8info/)
-- [discord](https://discord.com/channels/@me)
-- [glitch](https://glitch.com/@osde8info)
-- [hackster](https://www.hackster.io/osde8info)
-- [twitch](https://www.twitch.tv/)
+- [viet.wordpress.com](https://lovevietnamese.wordpress.com/)
 
 SMNs
 - [500px](https://500px.com/p/osde8info?view=photos)
@@ -37,6 +21,22 @@ SMNs
 - [twitter](https://twitter.com/osde8info) (also [fsse@twit](https://twitter.com/fsse8info) [vizz@twit](https://twitter.com/vizz8info))
 - [youtube](https://www.youtube.com/channel/) (also [fsse@youtube](https://www.youtube.com/channel/fsse8info) [vizz@youtube](https://www.youtube.com/channelhttps://twitter.com/vizz8info))
 
-COFFEEs
+BMNs
+- [linkedin](https://www.linkedin.com/)
+- [unsplash](https://unsplash.com/@osde8info)
+- [vimeo](https://vimeo.com/osde8info)
+
+DMNs
+- [codepen](https://codepen.io/osde8info/)
+- [discord](https://discord.com/channels/@me)
+- [glitch](https://glitch.com/@osde8info)
+- [hackster](https://www.hackster.io/osde8info)
+- [twitch](https://www.twitch.tv/)
+
+Dev Comms
+- [googissues](https://issuetracker.google.com/hotlists/1743334)
+- [launchpad](https://launchpad.net/~osde8info)
+ 
+And Finally Coffees
 - [buymeacoffee](https://www.buymeacoffee.com/VbmwyiF)
 - [kofi](https://ko-fi.com/osde8info)
