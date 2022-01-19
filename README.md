@@ -1,25 +1,25 @@
-OSDE blog
-- **[osde.wordpress.com](https://osde8info.wordpress.com)**
+OSDE.INFO & OSDE8INFO SMN Brand Grid
 
-Tech blogs
+| SMN   | OSDE    |  FSSE    | VIZZ   |  VOIP  |
+| :---  |  :---:  |  :---:   | :---:  |  :---: |
+| wordpress | **[OSDE](https://osde8info.wordpress.com)** | [fsse](https://fsse8info.wordpress.com) | [vizz](https://vizz8info.wordpress.com) | [voip](https://voippix.wordpress.com) |
+| flickr | [osde](https://www.flickr.com/photos/osde-info/) | [fsse](https://www.flickr.com/photos/fsse-info/) | [](https://www.flickr.com/photos/fsse-info/) | [](https://www.flickr.com/photos/osde-info/) |
+| instag | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | [voip](https://www.instagram.com/voip8info/) |
+| pinter | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
+| twittr | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | [voip](https://twitter.com/voip8info) |
+| youtube | [osde](https://www.youtube.com/channel/osde8info) | [fsse](https://www.youtube.com/channel/fsse8info) | [vizz](https://www.youtube.com/channel/vizz8info) | [voip](https://www.youtube.com/channel/voip8info) |
+
+Other Tech Blogs
 - [aiml.wordpress.com](https://aidlml.wordpress.com)
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
 - [embed.wordpress.com](https://embed8.wordpress.com)
-- [fsse.wordpress.com](https://fsse8info.wordpress.com)
-- [vizz.wordpress.com](https://vizz8info.wordpress.com)
-- [voip.wordpress.com](https://voippix.wordpress.com)
 
-Other Blogs
+Other Nontech Blogs
 - [viet.wordpress.com](https://lovevietnamese.wordpress.com/)
 
-SMNs
+Other SMNs
 - [500px](https://500px.com/p/osde8info?view=photos)
 - [deviantart](https://www.deviantart.com/osde8info)
-- [flickr](https://www.flickr.com/photos/osde-info/) (also [fsse@flickr](https://www.flickr.com/photos/fsse-info/))
-- [instagram](https://www.instagram.com/osde8info/) (also [fsse@pinsta](https://www.instagram.com/fsse8info/) [vizz@insta](https://www.instagram.com/vizz8info/))
-- [pinterest](https://www.pinterest.co.uk/osde8info/) (also [fsse@pinter](https://www.pinterest.co.uk/fsse8info/) [vizz@pinter](https://www.pinterest.co.uk/vizz8info/))
-- [twitter](https://twitter.com/osde8info) (also [fsse@twit](https://twitter.com/fsse8info) [vizz@twit](https://twitter.com/vizz8info))
-- [youtube](https://www.youtube.com/channel/) (also [fsse@youtube](https://www.youtube.com/channel/fsse8info) [vizz@youtube](https://www.youtube.com/channelhttps://twitter.com/vizz8info))
 
 BMNs
 - [linkedin](https://www.linkedin.com/)
@@ -33,7 +33,7 @@ DMNs
 - [hackster](https://www.hackster.io/osde8info)
 - [twitch](https://www.twitch.tv/)
 
-Dev Comms
+Dev Communitys
 - [googissues](https://issuetracker.google.com/hotlists/1743334)
 - [launchpad](https://launchpad.net/~osde8info)
  
