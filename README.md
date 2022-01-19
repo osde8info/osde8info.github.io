@@ -1,7 +1,7 @@
 ### OSDE.INFO & OSDE8INFO SMN Brand Grid
 
-| SMN   | OSDE    |  FSSE    | VIZZ   |  VOIP  |
-| :---  |  :---:  |  :---:   | :---:  |  :---: |
+| SMN   | OSDE  |  FSSE  | VIZZ  | VOIP  |
+| :---  | :---: |  :---: | :---: | :---: |
 | wordpress | **[OSDE](https://osde8info.wordpress.com)** | [fsse](https://fsse8info.wordpress.com) | [vizz](https://vizz8info.wordpress.com) | [voip](https://voippix.wordpress.com) |
 | flickr | [osde](https://www.flickr.com/photos/osde-info/) | [fsse](https://www.flickr.com/photos/fsse-info/) | [](https://www.flickr.com/photos/fsse-info/) | [](https://www.flickr.com/photos/osde-info/) |
 | instag | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | [voip](https://www.instagram.com/voip8info/) |
@@ -40,3 +40,5 @@
 ### And Finally Coffees
 - [buymeacoffee](https://www.buymeacoffee.com/VbmwyiF)
 - [kofi](https://ko-fi.com/osde8info)
+
+by osde.info
