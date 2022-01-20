@@ -33,8 +33,8 @@
 - [hackster](https://www.hackster.io/osde8info)
 - [twitch](https://www.twitch.tv/)
 
-### Dev Communitys ###
-- [googissues](https://issuetracker.goog ###le.com/hotlists/1743334)
+### Dev Communities ###
+- [googissues](https://issuetracker.google.com/hotlists/1743334)
 - [launchpad](https://launchpad.net/~osde8info)
  
 ### And Finally Coffees ###
