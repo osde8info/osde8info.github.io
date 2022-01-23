@@ -6,6 +6,7 @@
 | flickr | [osde](https://www.flickr.com/photos/osde-info/) | [fsse](https://www.flickr.com/photos/fsse-info/) | vizz | voip |
 | instag | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | voip |
 | pinter | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
+| twitch | [osde](https://www.twitch.tv/osde8info) | [fsse](https://www.twitch.tv/fsse8info) | [vizz](https://www.twitch.tv/vizz8info) | voip |
 | twittr | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | [voip](https://twitter.com/voip8info) |
 | youtube | [osde](https://www.youtube.com/channel/UC9qzSmzQ720lUlSWM8Q37Mw) | [fsse](https://www.youtube.com/channel/UC9qzSmzQ720lUlSWM8Q37Mw) | [vizz](https://www.youtube.com/channel/vizz8info) | [voip](https://www.youtube.com/channel/voip8info) |
 
@@ -31,7 +32,6 @@
 - [discord](https://discord.com/channels/@me)
 - [glitch](https://glitch.com/@osde8info)
 - [hackster](https://www.hackster.io/osde8info)
-- [twitch](https://www.twitch.tv/)
 
 ### Dev Communities ###
 - [googissues](https://issuetracker.google.com/hotlists/1743334)
