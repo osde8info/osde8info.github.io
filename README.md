@@ -40,4 +40,5 @@
 ### And Finally Coffees ###
 - [buymeacoffee](https://www.buymeacoffee.com/VbmwyiF)
 - [kofi](https://ko-fi.com/osde8info)
-- 
+
+(c) osde.info
