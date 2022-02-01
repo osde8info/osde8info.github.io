@@ -4,10 +4,10 @@
 | :---  | :---: |  :---: | :---: | :---: |
 | wordpress | **[osde](https://osde8info.wordpress.com)** | [fsse](https://fsse8info.wordpress.com) | [vizz](https://vizz8info.wordpress.com) | [voip](https://voippix.wordpress.com) |
 | flickr | [osde](https://www.flickr.com/photos/osde-info/) | [fsse](https://www.flickr.com/photos/fsse-info/) | vizz | voip |
-| instag | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | voip |
-| pinter | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
+| instagram | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | voip |
+| pinterest | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
 | twitch | [osde](https://www.twitch.tv/osde8info) | [fsse](https://www.twitch.tv/fsse8info) | [vizz](https://www.twitch.tv/vizz8info) | voip |
-| twittr | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | [voip](https://twitter.com/voip8info) |
+| twitter | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | [voip](https://twitter.com/voip8info) |
 | wakelet | [osde](https://wakelet.com/@osde8info) | [fsse](https://wakelet.com/@fsse8info) | [vizz](https://wakelet.com/@vizz8info) | [voip](https://wakelet.com/@voippix) |
 | youtube | [osde](https://www.youtube.com/channel/UCxmH22VDvp53C-Hs3D9bhcg) | [fsse](https://www.youtube.com/channel/UCbHVJiNo5P-MOnBt4c1SE2A) | [vizz](https://www.youtube.com/channel/UCzMNTUfeU5eZmp-RzkiANag) | voip |
 
