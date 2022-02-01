@@ -8,6 +8,7 @@
 | pinter | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
 | twitch | [osde](https://www.twitch.tv/osde8info) | [fsse](https://www.twitch.tv/fsse8info) | [vizz](https://www.twitch.tv/vizz8info) | voip |
 | twittr | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | [voip](https://twitter.com/voip8info) |
+| wakelet | [osde](https://wakelet.com/@osde8info) | [fsse](https://wakelet.com/@fsse8info) | [vizz](https://wakelet.com/@vizz8info) | [voip](https://wakelet.com/@voippix) |
 | youtube | [osde](https://www.youtube.com/channel/UCxmH22VDvp53C-Hs3D9bhcg) | [fsse](https://www.youtube.com/channel/UCbHVJiNo5P-MOnBt4c1SE2A) | [vizz](https://www.youtube.com/channel/UCzMNTUfeU5eZmp-RzkiANag) | voip |
 
 ### Other Tech Blogs ###
