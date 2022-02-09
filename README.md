@@ -3,6 +3,7 @@
 | SMN   | OSDE  |  FSSE  | VIZZ  | VOIP  |
 | :---  | :---: |  :---: | :---: | :---: |
 | wordpress | **[osde](https://osde8info.wordpress.com)** | [fsse](https://fsse8info.wordpress.com) | [vizz](https://vizz8info.wordpress.com) | [voip](https://voippix.wordpress.com) |
+| blogspot | [osde](https://osde8info.blogspot.com/) | fsse | [vizz](https://vizz8info.blogspot.com/) | voip |
 | flickr | [osde](https://www.flickr.com/photos/osde-info/) | [fsse](https://www.flickr.com/photos/fsse-info/) | vizz | voip |
 | instagram | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | voip |
 | pinterest | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
