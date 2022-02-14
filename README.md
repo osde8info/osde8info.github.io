@@ -5,6 +5,7 @@
 | wordpress | **[osde](https://osde8info.wordpress.com)** | [fsse](https://fsse8info.wordpress.com) | [vizz](https://vizz8info.wordpress.com) | [voip](https://voippix.wordpress.com) |
 | blogspot | [osde](https://osde8info.blogspot.com/) | fsse | [vizz](https://vizz8info.blogspot.com/) | voip |
 | flickr | [osde](https://www.flickr.com/photos/osde-info/) | [fsse](https://www.flickr.com/photos/fsse-info/) | vizz | voip |
+| glocal | [osde](https://www.localguidesconnect.com/t5/user/viewprofilepage/user-id/919044) | [fsse](https://www.google.com/maps/contrib/115222101141525511072/photos) | [vizz](https://www.google.com/maps/contrib/101610470072290949036/photos) | voip |
 | instagram | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | voip |
 | pinterest | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
 | twitch | [osde](https://www.twitch.tv/osde8info) | [fsse](https://www.twitch.tv/fsse8info) | [vizz](https://www.twitch.tv/vizz8info) | voip |
