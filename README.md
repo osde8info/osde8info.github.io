@@ -44,4 +44,4 @@
 - [buymeacoffee](https://www.buymeacoffee.com/VbmwyiF)
 - [kofi](https://ko-fi.com/osde8info)
 
-(c) 2022 [osde.info](https://osde.info)
+(c) 2024 [osde.info](https://osde.info)
