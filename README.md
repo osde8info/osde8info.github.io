@@ -9,21 +9,17 @@
 | instagram | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) | voip |
 | pinterest | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
 | twitch | [osde](https://www.twitch.tv/osde8info) | [fsse](https://www.twitch.tv/fsse8info) | [vizz](https://www.twitch.tv/vizz8info) | voip |
-| twitter | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | [voip](https://twitter.com/voip8info) |
+| X (pka twitter) | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) | voip |
 | wakelet | [osde](https://wakelet.com/@osde8info) | [fsse](https://wakelet.com/@fsse8info) | [vizz](https://wakelet.com/@vizz8info) | [voip](https://wakelet.com/@voippix) |
 | youtube | [osde](https://www.youtube.com/channel/UCxmH22VDvp53C-Hs3D9bhcg) | [fsse](https://www.youtube.com/channel/UCbHVJiNo5P-MOnBt4c1SE2A) | [vizz](https://www.youtube.com/channel/UCzMNTUfeU5eZmp-RzkiANag) | voip |
 
 ### Other Tech Blogs ###
-- [aiml.wordpress.com](https://aidlml.wordpress.com)
+- [aidlml.wordpress.com](https://aidlml.wordpress.com)
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
 - [embed.wordpress.com](https://embed8.wordpress.com)
 
 ### Other Nontech Blogs ###
 - [viet.wordpress.com](https://lovevietnamese.wordpress.com/)
-
-### Other SMNs ###
-- [500px](https://500px.com/p/osde8info?view=photos)
-- [deviantart](https://www.deviantart.com/osde8info)
 
 ### BMNs ###
 - [linkedin](https://www.linkedin.com/)
@@ -35,6 +31,10 @@
 - [discord](https://discord.com/channels/@me)
 - [glitch](https://glitch.com/@osde8info)
 - [hackster](https://www.hackster.io/osde8info)
+
+### More SMNs ###
+- [500px](https://500px.com/p/osde8info?view=photos)
+- [deviantart](https://www.deviantart.com/osde8info)
 
 ### Dev Communities ###
 - [googissues](https://issuetracker.google.com/hotlists/1743334)
