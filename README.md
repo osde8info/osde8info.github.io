@@ -1,5 +1,9 @@
-### OSDE.INFO & OSDE8INFO SMN Brand Grid ###
+## OSDE.INFO & OSDE8INFO ##
 
+### Sponsors of the random refugee charity finder ###
+[rfugcoin.org](https://rfugcoin.org)
+
+### SMN Brand Grid ###
 | SMN   | OSDE  |  FSSE  | VIZZ  | VOIP  |
 | :---  | :---: |  :---: | :---: | :---: |
 | wordpress | **[osde](https://osde8info.wordpress.com)** | [fsse](https://fsse8info.wordpress.com) | [vizz](https://vizz8info.wordpress.com) | [voip](https://voippix.wordpress.com) |
