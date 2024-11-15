@@ -1,8 +1,10 @@
 ## OSDE.INFO & OSDE8INFO
 
+Open Source Advocacy and SMN, BMN, SMNM & BMNM guerilla marketing
+
 ### Sponsors of the random refugee charity finder
 
-[rfugcoin.org](https://rfugcoin.org)
+- [rfugcoin.org](https://rfugcoin.org)
 
 ### SMN Brand Grid
 
