@@ -22,9 +22,9 @@ Open Source Advocacy and SMN, BMN, SMNM & BMNM guerilla marketing
 | instagram | [osde](https://www.instagram.com/osde8info/) | [fsse](https://www.instagram.com/fsse8info/) | [vizz](https://www.instagram.com/vizz8info/) |  |
 | littleredbook | [osde](https://www.xiaohongshu.com/user/profile/6785ef2c000000000801bd5a?xsec_token=AB78PqiOWkETZsw6WQ300jVS2Cdv_I1NEzniNao4zHEho=&xsec_source=pc_search) | [fsse](https://www.xiaohongshu.com/user/profile/6785ef2c000000000801bd5a?xsec_token=AB78PqiOWkETZsw6WQ300jVS2Cdv_I1NEzniNao4zHEho=&xsec_source=pc_search) | [vizz](https://www.xiaohongshu.com/user/profile/6785ef2c000000000801bd5a?xsec_token=AB78PqiOWkETZsw6WQ300jVS2Cdv_I1NEzniNao4zHEho=&xsec_source=pc_search) |  |
 | localguide | [osde](https://www.localguidesconnect.com/) | [fsse](https://www.google.com/maps/contrib/115222101141525511072/photos) | [vizz](https://www.google.com/maps/contrib/101610470072290949036/photos) |  |
+| mastodon | [osde](https://mastodon.social/@osde8info) | [fsse](https://mastodon.social/@fsse8info@mastodon.london) | | |
 | pinterest | [osde](https://www.pinterest.co.uk/osde8info/) | [fsse](https://www.pinterest.co.uk/fsse8info/) | [vizz](https://www.pinterest.co.uk/vizz8info/) | [voip](https://www.pinterest.co.uk/voip8info/) |
 | rednote | [osde](https://www.xiaohongshu.com/user/profile/6785ef2c000000000801bd5a?xsec_token=AB78PqiOWkETZsw6WQ300jVS2Cdv_I1NEzniNao4zHEho=&xsec_source=pc_search) | [fsse](https://www.xiaohongshu.com/user/profile/6785ef2c000000000801bd5a?xsec_token=AB78PqiOWkETZsw6WQ300jVS2Cdv_I1NEzniNao4zHEho=&xsec_source=pc_search) | [vizz](https://www.xiaohongshu.com/user/profile/6785ef2c000000000801bd5a?xsec_token=AB78PqiOWkETZsw6WQ300jVS2Cdv_I1NEzniNao4zHEho=&xsec_source=pc_search) |  |
-| tiktok | N/A | N/A | N/A | N/A |
 | twitch | [osde](https://www.twitch.tv/osde8info) | [fsse](https://www.twitch.tv/fsse8info) | [vizz](https://www.twitch.tv/vizz8info) |  |
 | wakelet | [osde](https://wakelet.com/@osde8info) | [fsse](https://wakelet.com/@fsse8info) | [vizz](https://wakelet.com/@vizz8info) | [voip](https://wakelet.com/@voippix) |
 | X (pka twitter) | [osde](https://twitter.com/osde8info) | [fsse](https://twitter.com/fsse8info) | [vizz](https://twitter.com/vizz8info) |  |
@@ -35,6 +35,7 @@ Open Source Advocacy and SMN, BMN, SMNM & BMNM guerilla marketing
 - [aidlml.wordpress.com](https://aidlml.wordpress.com)
 - [edutain.wordpress.com](https://edutain8.wordpress.com)
 - [embed.wordpress.com](https://embed8.wordpress.com)
+- [pyed.wordpress.com](https://pyed8.wordpress.com)
 
 ### Other Nontech Blogs
 - [viet.wordpress.com](https://lovevietnamese.wordpress.com/)
