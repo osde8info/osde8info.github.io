@@ -63,4 +63,4 @@ Open Source Advocacy and SMN, BMN, SMNM & BMNM guerilla marketing
 - [buymeacoffee](https://www.buymeacoffee.com/VbmwyiF)
 - [kofi](https://ko-fi.com/osde8info)
 
-(c) 2025 [osde.info](https://osde.info)
+(c) 2026 [osde.info](https://osde.info)
